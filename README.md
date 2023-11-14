@@ -6,7 +6,7 @@
 
 
 --
-### Install mmseqs with cmake
+### Install mmseqs with cmake https://github.com/soedinglab/mmseqs2/wiki#compile-from-source-under-linux
 ```bash
 ml GCCcore/12.3.0 GCC/12.3.0 CMAKE/3.26.3
 CC=gcc-12
